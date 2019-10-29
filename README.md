@@ -1,7 +1,7 @@
-# Arduino Leonadro - 3D
+# Arduino Leonardo - 3D
 ----------
 
-I'ts OpenScad script, for rendering simple "Arduino Leonadro" 3D model.
+I'ts OpenScad script, for rendering simple "Arduino Leonardo" 3D model.
 
 ----
 # Screenshots
